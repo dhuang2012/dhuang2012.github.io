@@ -23,7 +23,7 @@ Dr. Dan Huang currently is an associate professor in School of Computer Science 
 **Transactions on Benchmarks, Standards and Evaluations**
 
 
-<p id="publications" >
+<p id="publications" />
 
 # Publications:
 
@@ -39,8 +39,4 @@ Dr. Dan Huang currently is an associate professor in School of Computer Science 
 
 
 
-
-
-
-teste
 
