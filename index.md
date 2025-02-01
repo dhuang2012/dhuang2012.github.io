@@ -6,13 +6,21 @@ Dr. Dan Huang currently is an associate professor in School of Computer Science 
 
 # Publications
 
-## AI system
+## High-performance AI system
 
 
 ## Scientific data and IO 
 
 
-## Hardware and software co-design 
+## Hardware and software co-design for parallelism
+
+# Services
+
+## TPC member for HPC conferences
+SC, IPDPS, Cluster, CCGrid, HiPC
+
+## Journal reviewer 
+TPDS, TC, JPDC, JSA, FGCS, THPC
 
 <!---
 
