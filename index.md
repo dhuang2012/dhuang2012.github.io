@@ -24,7 +24,7 @@ test
 test
 
 
-#  <p id="services" >Services:
+#  <p id="services" />Services:
 
 ## TPC member of HPC conference
 **SC, IPDPS, Cluster, CCGrid, HiPC, DRBSD@SC Workshop**
