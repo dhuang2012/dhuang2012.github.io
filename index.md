@@ -1,6 +1,12 @@
+
+#Short Bio
+Dr. Dan Huang currently is an associate professor in School of Computer Science and Engineering, Sun Yat-sen University. He received Ph.D. in computer engineering at University of Central Florida. Before this, he received master and bachelor degrees in Southeast University and Jilin University respectively. His research interests are scientific data management, high performance AI systems, parallel programming model. From November 2015 to August 2016, he worked as a researcher at the Oak Ridge National Laboratory in the United States. Currently, he is conducting research and implementation of technology, systems, and applications related to the convergence of supercomputing, big data, and artificial intelligence at the National Supercomputing Guangzhou Center. His researches have been published in some top-tier conferences and journals, including IEEE TC, IEEE TPDS, SC, ICS, PPoPP, IPDPS, DAC. 
+
+<!---
 ---
 layout: default
 ---
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -121,3 +127,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
