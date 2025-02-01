@@ -1,7 +1,4 @@
 
----
-layout: default
----
 
 # Short Bio
 
@@ -9,6 +6,11 @@ Dr. Dan Huang currently is an associate professor in School of Computer Science 
 
 
 <!---
+
+---
+layout: default
+---
+
 <dl>
 <dt>Name</dt>
 <dd>Godzilla</dd>
