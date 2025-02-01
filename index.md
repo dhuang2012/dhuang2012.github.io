@@ -23,7 +23,7 @@ test
 
 test
 
-#  <a id="publications" />Publications:
+# Publications:{#publications}
 
 ## High-performance AI system
 
