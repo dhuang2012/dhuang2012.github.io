@@ -21,6 +21,9 @@
 * ## Associate editor
 **Transactions on Benchmarks, Standards and Evaluations**
 
+* ## Presentation
+**ISC'23, EuroPar'24, CCF HPC China/ChinaData/Computility (in Chinese)**
+
 
 <p id="publications" />
 
