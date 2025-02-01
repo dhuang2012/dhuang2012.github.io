@@ -16,12 +16,17 @@ Dr. Dan Huang currently is an associate professor in School of Computer Science 
 
 # Services
 
-## TPC member for HPC conferences
-SC, IPDPS, Cluster, CCGrid, HiPC
+## TPC member of HPC conferences
+**SC, IPDPS, Cluster, CCGrid, HiPC, DRBSD@SC Workshop**
 
 ## Journal reviewer 
-TPDS, TC, JPDC, JSA, FGCS, THPC
+**TPDS, TC, JPDC, JSA, FGCS, THPC**
 
+## Review Editor
+**IEEE TPDS, Frontiers in High Performance Computing**
+
+## Associate Editor
+**Transactions on Benchmarks, Standards and Evaluations**
 <!---
 
 ---
