@@ -119,7 +119,7 @@ kbd {
 }
 
 header {
-  width:270px;
+  width:240px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -203,7 +203,7 @@ hr {
 }
 
 footer {
-  width:270px;
+  width:240px;
   float:left;
   position:fixed;
   bottom:50px;
@@ -224,13 +224,13 @@ footer {
   }
 
   header {
-    padding-right:335px;
+    padding-right:250px;
   }
 
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
-    padding:20px 0;
+    padding:10px 0;
     margin:0 0 5px;
   }
 
