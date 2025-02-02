@@ -29,7 +29,7 @@
 
 # Publications:
 
-* ## High-performance AI system
+* ## High-performance AI software stack
 
 
 * ## Scientific data and IO 
