@@ -119,7 +119,7 @@ kbd {
 }
 
 header {
-  width:240px;
+  width:270px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -203,14 +203,14 @@ hr {
 }
 
 footer {
-  width:240px;
+  width:270px;
   float:left;
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1280px) {
 
   div.wrapper {
     width:auto;
@@ -224,14 +224,14 @@ footer {
   }
 
   header {
-    padding-right:250px;
+    padding-right:320px;
   }
 
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
-    padding:10px 0;
-    margin:0 0 5px;
+    padding:20px 0;
+    margin:0 0 20px;
   }
 
   header a small {
