@@ -15,7 +15,7 @@
 * ## Journal reviewer 
 **IEEE TPDS, IEEE TC, JPDC, JSA, FGCS, THPC**
 
-* ## Review editor
+* ## Technical review board
 **IEEE TPDS, Frontiers in High Performance Computing**
 
 * ## Associate editor
